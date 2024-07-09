@@ -166,6 +166,6 @@ $(() => {
         console.log('1');
         let message = `Olá, meu nome é ${userName}. Fiz um teste e meu resultado foi ${hitPercentage.toFixed(0)}%. Gostaria de atendimento para resultados mais detalhados.`;
 
-        window.location.href = `https://wa.me/558134829140?text=${message}`;
+        window.location.href = `https://wa.me/5581997590209?text=${message}`;
     });
 });
